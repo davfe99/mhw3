@@ -16,7 +16,7 @@ body {
 
 header {
     height: 400px;
-    background-image: url("../image/cosmos.jpg");
+    background-image: url("image/cosmos.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
